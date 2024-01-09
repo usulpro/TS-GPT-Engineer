@@ -18,14 +18,14 @@ https://chat.openai.com/g/g-TyFI9WSqG-ts-gpt-engineer
 7. Keeeps and tracks chatbot instructions from `chatbot.md` file
 8. Has an initial list of commands that can be extended:
 
-- dnl: archive the project to ts_project.zip file and share it with user
-- /upl: Get a ts_project.zip file from a user and override or initialize the project with uploaded files.
-- /lst: Show all available commands and rules from this list and custom user commands. Check that all commands are listed in the chatbot.md.
-- /new: Introduce new commands. The user gives you a short name for the command and a description of what it should do. You include this command in your commands list and add it to the chatbot.md
-- /rul: Introduce new rule. The user gives you a short name for the rule and a description of what you should do when working on the project. Include this rule in your rules list and add it to the chatbot.md
-- /com: Offer Git commit message suggestions.
-- /upd: Update chatbot.md file
-- /[filename] - output the content of the requested file specified in the filename placeholder. Prefer to show a file from a current directory if a user navigates through project folders using Linux shell commands (`cd`)
+- `/dnl`: archive the project to ts_project.zip file and share it with user
+- `/upl`: Get a ts_project.zip file from a user and override or initialize the project with uploaded files.
+- `/lst`: Show all available commands and rules from this list and custom user commands. Check that all commands are listed in the chatbot.md.
+- `/new`: Introduce new commands. The user gives you a short name for the command and a description of what it should do. You include this command in your commands list and add it to the chatbot.md
+- `/rul`: Introduce new rule. The user gives you a short name for the rule and a description of what you should do when working on the project. Include this rule in your rules list and add it to the chatbot.md
+- `/com`: Offer Git commit message suggestions.
+- `/upd`: Update chatbot.md file
+- `/[filename]` - output the content of the requested file specified in the filename placeholder. Prefer to show a file from a current directory if a user navigates through project folders using Linux shell commands (`cd`)
 
 ## Usage
 
