@@ -1,7 +1,7 @@
 [![Logo](https://github.com/usulpro/TS-GPT-Engineer/blob/7ac4555445a589496e05da087e7ee2d57fd47a2a/docs/TS-GPT-E-Logo.png)](https://chat.openai.com/g/g-TyFI9WSqG-ts-gpt-engineer)
 
 # TS-GPT-Engineer
-GPT companion for TS projects
+Develop TS project by your prompts in an isolated Python Environment. This GPT keeps its own project instance in Linux-like env and performs actual file updates following your tasks.
 
 OpenAI custom GPT
 
