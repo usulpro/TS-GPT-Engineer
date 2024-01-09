@@ -47,7 +47,21 @@ Typically, you have to explain the goal of the project, structure, and framework
 
 > Note: good practice is to still utilize git on your side to control project changes
 
+## Tips
 
+use files from `boilerplate` folder to scaffold the project pack/unpack operations
 
+## Credentials
 
+**Created by Oleg Proskurin** - Senior Engineer and Tech Lead, specializing in headless CMS and passionate about AI and web innovations. Actively contributing to open-source projects and exploring AI in software development.
 
+**Connect with Me:**
+- GitHub: [github.com/usulpro](https://github.com/usulpro)
+- Twitter: [@usulpro](https://twitter.com/usulpro)
+- LinkedIn: [linkedin.com/in/olegproskurin](https://www.linkedin.com/in/olegproskurin/)
+- Blog: [focusreactive.com/blog/author/usulpro](https://focusreactive.com/blog/author/usulpro/)
+- DEV Community: [dev.to/usulpro](https://dev.to/usulpro)
+
+*Pushing the boundaries of AI in code generation.*
+
+2024
